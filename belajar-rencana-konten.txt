@@ -2,5 +2,6 @@ Rencana Konten
 - Javascript
   > Es6
   > Frame work Java script
+- fundamental data dasar
 - Php
 - Interview
