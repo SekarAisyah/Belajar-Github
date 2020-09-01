@@ -1,10 +1,12 @@
 Rencana Konten
 - Javascript
   > Es6
-  > Frame work Java script
-    - Angular
-    - React
 - fundamental data dasar
 - Php
    - laravel
+    -Vue
+    -react
+- fundamental data dasar
+- Php
+   - Laravel
 - Interview
