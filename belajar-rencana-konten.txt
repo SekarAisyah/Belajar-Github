@@ -3,6 +3,7 @@ Rencana Konten
   > Es6
   > Frame work Java script
     -Vue
+    -react
 - fundamental data dasar
 - Php
    - Laravel
